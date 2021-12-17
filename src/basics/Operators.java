@@ -15,6 +15,7 @@ public class Operators {
 		System.out.println("Product of 2 numbers is : " + product);
 		System.out.println("Difference of 2 numbers is : " + diff);
 		
+		System.out.println("To check git status");
 	}
 
 }
