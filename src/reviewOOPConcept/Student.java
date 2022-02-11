@@ -19,12 +19,12 @@ public class Student {
 	 * }
 	 * 
 	 * First type - no input parameters, no return value
-	 * Second type - some input parameters, no return value
+	 * Second type - one or more input parameters, no return value
 	 * 
 	 * 
 	 */
 	
-	void study(String name1) {
-		System.out.println(name1 + " is studying");
+	void study(String name) {
+		System.out.println(name + " is studying");
 	}
 }
